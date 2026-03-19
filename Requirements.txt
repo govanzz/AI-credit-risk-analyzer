@@ -1,0 +1,6 @@
+streamlit
+pandas
+pytesseract
+Pillow
+pdf2image
+requests
