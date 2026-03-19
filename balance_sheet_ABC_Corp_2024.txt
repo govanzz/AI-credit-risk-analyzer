@@ -1,0 +1,25 @@
+ABC Corporation
+Statement of Financial Position (Balance Sheet)
+For the year ended 31 December 2024
+All figures in millions
+
+ASSETS
+
+Cash .................................................. 120
+Accounts Receivable .................................. 80
+Inventory ............................................ 60
+Current Assets ....................................... 260
+
+Property, Plant and Equipment ........................ 540
+
+Total Assets ......................................... 800
+
+
+LIABILITIES AND EQUITY
+
+Current Liabilities .................................. 150
+Long-term Debt ....................................... 250
+
+Total Liabilities .................................... 400
+
+Total Equity ......................................... 400

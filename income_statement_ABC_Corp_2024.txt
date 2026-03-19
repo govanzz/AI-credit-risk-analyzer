@@ -1,0 +1,19 @@
+ABC Corporation
+Statement of Profit or Loss (Income Statement)
+For the year ended 31 December 2024
+All figures in millions
+
+Revenue .............................................. 900
+
+Cost of Goods Sold ................................... 500
+Gross Profit ......................................... 400
+
+Operating Expenses ................................... 200
+
+EBIT (Operating Profit) .............................. 200
+
+Interest Expense ..................................... 40
+
+Profit Before Tax .................................... 160
+
+Net Income ........................................... 120
